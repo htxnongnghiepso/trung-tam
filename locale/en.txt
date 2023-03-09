@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_E27C329D_C1E0_7D0E_41B2_DBC6F6EC6751.label = cổng trường phổ thông
+panorama_E041BC06_C1E0_04FD_41A5_9ABFD7759E87.label = cổng trường tiểu học
+panorama_E0459981_C1E0_0FF7_41E4_7C0D8A3934E7.label = sân trường phổ thông
+panorama_E041BC3A_C1E0_050A_41CB_E07024A4B521.label = sân trường tiểu học
+panorama_E0438D81_C1E0_07F6_41E0_FDB1E22A630E.label = trên cao
+panorama_E0419CD7_C1E0_051B_41D4_8F6EDE6AD171.label = đường tỉnh lộ
+panorama_E041CC2E_C1E0_050A_41BE_6DCA2C39EEC9.label = đường tỉnh lộ
+panorama_E041ABD0_C1E0_0316_41DF_6FCCE001AF3F.label = đường tỉnh lộ
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 142
